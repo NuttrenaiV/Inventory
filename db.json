@@ -1,0 +1,42 @@
+{
+  "inventory": [
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 19.99,
+      "quantity": "11",
+      "supplier": "Supplier F",
+      "reorderLevel": "3"
+    },
+    {
+      "0": {
+        "name": "",
+        "price": "",
+        "quantity": "",
+        "supplier": "",
+        "reorderLevel": ""
+      },
+      "id": "cfa3",
+      "name": "Product 4",
+      "price": "3",
+      "quantity": "12",
+      "supplier": "Supplier B",
+      "reorderLevel": "2"
+    },
+    {
+      "0": {
+        "name": "",
+        "price": "",
+        "quantity": "",
+        "supplier": "",
+        "reorderLevel": ""
+      },
+      "id": "517c",
+      "name": "Product 5",
+      "price": "19.99",
+      "quantity": "11",
+      "supplier": "Supplier F",
+      "reorderLevel": "3"
+    }
+  ]
+}
